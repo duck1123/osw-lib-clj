@@ -1,0 +1,6 @@
+# Clojure library for OneSocialWeb
+
+This is a wrapper around the java library for OneSocialWeb.
+
+I will be expanding the library as I find the need and hope to have a
+DSL for social networking applications
