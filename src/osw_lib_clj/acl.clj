@@ -1,4 +1,4 @@
-(ns clj-osw.acl
+(ns osw-lib-clj.acl
   (:import org.onesocialweb.model.acl.AclSubject
            org.onesocialweb.model.acl.AclAction
            org.onesocialweb.model.acl.DefaultAclRule

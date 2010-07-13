@@ -1,4 +1,4 @@
-(ns clj-osw.activity
+(ns osw-lib-clj.activity
   (:import org.onesocialweb.model.atom.DefaultAtomFactory
            org.onesocialweb.model.activity.DefaultActivityFactory
            org.onesocialweb.model.activity.ActivityVerb

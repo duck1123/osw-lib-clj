@@ -1,4 +1,4 @@
-(ns clj-osw.atom
+(ns osw-lib-clj.atom
   (:import org.onesocialweb.model.atom.DefaultAtomFactory))
 
 (defn entry

@@ -1,7 +1,7 @@
-(ns clj-osw.core
+(ns osw-lib-clj.core
   (:import org.onesocialweb.smack.OswServiceFactoryImp))
 
-(def *default-resource* "clj-osw")
+(def *default-resource* "osw-lib-clj")
 (def *default-port* 5266)
 
 (def *service*
